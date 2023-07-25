@@ -5,9 +5,10 @@ The purpose of the dashboard is to identify impacts as a result of the 2020 New 
 
 ### Findings
 Analysis identified that younger people made more trips in 2020. Those in working age made less.   
-All groups had an increase in the trip duration (+44.1% overall) and made  longer journeys (+0.3km average increase).  
+All groups had an increase in the trip duration (+44.1% overall) and made  longer journeys (+0.3km average increase). 
+  
 We saw a stark increase in the overall percentage of trips > 4km - with the top stations along the west side of Manhattan Island. 
-Review Images tab.
+Review Images tab. This may be an indicator that more people are using citibikes as a public transport substitution in 2020 where we saw an increase to this bucket - in line with the average New York public transport transit of 9.5 km [source](https://moovitapp.com/insights/en/Moovit_Insights_Public_Transit_Index-countries).  
 
 ## Tableau Story Link
 Access the following link to view the story of the overall project and findings.
