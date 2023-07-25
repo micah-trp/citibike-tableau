@@ -11,26 +11,26 @@ Review Images tab.
 
 ## Tableau Story Link
 Access the following link to view the story of the overall project and findings.
- <https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeStory_16901975991970/CitiBikeAnalysis?publish=ye>
+- [Citibike Story Link](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeStory_16901975991970/CitiBikeAnalysis?publish=ye)
 
 ## Tableau Map Dashboard
 Access the following link to view the Citi Bike Map dashboard- filterable by Trip Journey and year- with a view of each station - Bubble size and color set to the match the monthly trips results. 
-<https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeMap_16901950070280/MapDashboard?publish=yes>
+- [Tableau Map Dashboard](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeMap_16901950070280/MapDashboard?publish=yes)
 
 ## Tableau Age Group Dashboard
 Access the following to view Citibike Map summary by age group..
-<https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeAge_16901980427950/AGE?publish=yes>
+- [Tableau Age Group Dashboard](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeAge_16901980427950/AGE?publish=yes)
 
 ## Tableau Distance Group Dashboard
 Access the following to view Citibike Map summary by agdistancee group.
-<https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeDistance/Distance?publish=yes>
+- [Tableau Distance Group Dashboard](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/CitiBikeDistance/Distance?publish=yes)
 
 
 ## Data Preparation
 Refer to notebook file "citi_bike_python.ipynb" for data cleaning ane prearation.  
 
 ## Data Source & New ExtractCreation 
-Extracts for Jun-Aug 2019 & 2020 were downloaded from Citibike website and ingested during the datafetch process.
+Extracts for Jun-Aug 2019 & 2020 were downloaded from website [Citibike- Trip History](https://citibikenyc.com/system-data) and ingested during the datafetch process.
 Final data sources were created: 
 - map_data.csv
 - start_1920_age_group.csv
